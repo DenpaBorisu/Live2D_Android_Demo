@@ -4,7 +4,7 @@ This is a small sample app for android, that makes use of the Live2D SDK for uni
 
 https://www.youtube.com/watch?v=NTHO5xq11KY
 
-![Screenshot](https://raw.githubusercontent.com/DenpaBorisu/Live2D_Android_Demo/master/cat1.jpg&s=200)
+![Screenshot](cat1.jpg&s=200)
 
 ## Instalation
 
