@@ -2,7 +2,9 @@
 
 This is a small sample app for android, that makes use of the Live2D SDK for unity.
 
-![Screenshot](https://github.com/DenpaBorisu/Live2D_Android_Demo/blob/master/cat1.jpg | height=250)
+https://www.youtube.com/watch?v=NTHO5xq11KY
+
+![Screenshot](https://raw.githubusercontent.com/DenpaBorisu/Live2D_Android_Demo/master/cat1.jpg&s=200)
 
 ## Instalation
 
