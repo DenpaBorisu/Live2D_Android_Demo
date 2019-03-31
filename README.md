@@ -1,4 +1,4 @@
-#Live2D Android Demo
+# Live2D Android Demo
 
 This is a small sample app for android, that makes use of the Live2D SDK for unity.
 
